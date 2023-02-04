@@ -7,7 +7,7 @@ author: FNF
 value: 0.06
 currency: BTC
 contact: https://t.me/nostr_protocol 
-status: New
+status: Claimed
 ---
 
 Read these posts:
@@ -42,5 +42,24 @@ of working.
 
 ---
 
-fiatjaf: 0.05 BTC
-nvk: 0.01
+#### Pledges
+
+- fiatjaf: 0.05 BTC
+- nvk: 0.01
+
+---
+
+## Claimed!
+
+Benefiatiaries 
+
+- 30% to Karnage 
+- 30% to @dfralan 
+- 30% to @arkin0x 
+- 10% to @StrongHodler 
+
+https://t.me/nostrdesign/1525
+
+#### Deliverable:
+
+https://twitter.com/fiatjaf/status/1621202814499258372?s=20
