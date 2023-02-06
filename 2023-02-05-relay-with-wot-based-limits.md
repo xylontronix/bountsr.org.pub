@@ -6,7 +6,7 @@ categories: code
 author: giszmo
 value: 2172215
 currency: sat
-contact: npub1gm7tuvr9atc6u7q3gevjfeyfyvmrlul4y67k7u7hcxztz67ceexs078rf6
+contact: https://brb.io/u/npub1gm7tuvr9atc6u7q3gevjfeyfyvmrlul4y67k7u7hcxztz67ceexs078rf6
 status: New
 ---
 
