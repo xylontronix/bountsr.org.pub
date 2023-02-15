@@ -4,8 +4,8 @@ title: Make Nostr Relay that applies limits based on proximity to a group of acc
 date:   2023-02-05
 categories: code
 author: giszmo
-value: 2172215
-currency: sat
+value: 0.02172215
+currency: btc
 contact: https://brb.io/u/npub1gm7tuvr9atc6u7q3gevjfeyfyvmrlul4y67k7u7hcxztz67ceexs078rf6
 status: New
 ---
