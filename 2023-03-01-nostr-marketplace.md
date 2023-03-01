@@ -4,7 +4,7 @@ title:  "Nostr Marketplace"
 date:   2023-03-01 4:20:00 -0500
 categories: code
 author: karnage
-value: 0.08
+value: 0.1
 currency: BTC
 contact: https://brb.io/u/npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac
 status: New
