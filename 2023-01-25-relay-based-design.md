@@ -6,8 +6,8 @@ categories: design
 author: FNF
 value: 0.06
 currency: BTC
-contact: nostr:nprofile1qqsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8gpr4mhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet5qyw8wumn8ghj7mn0wd68yttjv4kxz7fww4h8get5dpezumt9qy38wumn8ghj7mn0wd68yttkv4exjenfv4jzuam9d3kx7unyv4ezumn9wslzm9ln
-status: New
+contact: https://t.me/nostr_protocol 
+status: Claimed
 ---
 
 Read these posts:
@@ -42,5 +42,24 @@ of working.
 
 ---
 
-fiatjaf: 0.05 BTC
-nvk: 0.01
+#### Pledges
+
+- fiatjaf: 0.05 BTC
+- nvk: 0.01
+
+---
+
+## Claimed!
+
+Benefiatiaries 
+
+- 30% to Karnage 
+- 30% to @dfralan 
+- 30% to @arkin0x 
+- 10% to @StrongHodler 
+
+https://t.me/nostrdesign/1525
+
+#### Deliverable:
+
+https://twitter.com/fiatjaf/status/1621202814499258372?s=20
