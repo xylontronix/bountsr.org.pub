@@ -16,4 +16,4 @@ I am not sure about the specifics. Please talk to me and to Aaron before you bui
 
 ---
 
-Claimed by [npub1aasaanckwe7489s3g7x000yfz8lndzru2cgdszv583tevgznaaysm2tjjh](nostr:npub1aasaanckwe7489s3g7x000yfz8lndzru2cgdszv583tevgznaaysm2tjjh) https://github.com/alemmens/monstr
+Claimed by npub1aasaanckwe7489s3g7x000yfz8lndzru2cgdszv583tevgznaaysm2tjjh https://github.com/alemmens/monstr
