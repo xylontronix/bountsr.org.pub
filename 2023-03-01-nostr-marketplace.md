@@ -52,4 +52,7 @@ Bonus: show total number of sales in the storefront
 
 
 Open source obviously. 
-Product listing inspiration:  - https://www.ls.graphics/products/booomps-3d-icons-pack - https://dribbble.com/shots/15543783-Crypter-NFT-marketplace (visual aspects only, no NFT junk)
+
+Product listing inspiration:  (visual aspects only, no NFT junk)
+https://www.ls.graphics/products/booomps-3d-icons-pack
+https://dribbble.com/shots/15543783-Crypter-NFT-marketplace
