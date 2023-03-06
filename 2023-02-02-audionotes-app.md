@@ -7,7 +7,7 @@ author: FNF
 value: 0.05
 currency: BTC
 contact: https://t.me/fiatjaf
-status: New
+status: withdrawn
 ---
 
 An iOS or Android app that just sends audio notes, like Telegram/WhatsApp have, but broadcasting them as `kind:1` events. The audio contents should not be in the Nostr events, they should be just a URL.

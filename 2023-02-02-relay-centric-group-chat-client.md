@@ -7,7 +7,7 @@ author: FNF
 value: 0.05
 currency: BTC
 contact: https://t.me/fiatjaf
-status: New
+status: withdrawn
 ---
 
 The idea is to implement the group chat NIP (and possibly improve upon it) in a native (for iOS, Android or Desktop) client that puts relays at the forefront.

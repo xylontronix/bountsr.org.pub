@@ -7,7 +7,7 @@ author: FNF
 value: 0.05
 currency: BTC
 contact: https://t.me/fiatjaf
-status: New
+status: withdrawn
 ---
 
 A very simple and lean web Nostr client dedicated only to browsing relays. Should have a nice, fast, usable UX.

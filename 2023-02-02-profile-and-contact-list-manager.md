@@ -7,7 +7,7 @@ author: FNF
 value: 0.01
 currency: BTC
 contact: https://t.me/fiatjaf
-status: New
+status: withdrawn
 ---
 
 Micro web-app for managing metadata, contact lists, relay lists.
