@@ -4,7 +4,9 @@ title:  "Nostr-based Hacker News replacement"
 date:   2023-01-25 12:52:00 -0500
 categories: code
 author: nvk
-value: 0.04
+pledges:
+  - [0.01, nvk]
+  - [0.03, Eric]
 currency: BTC
 contact: https://nvk.org/nostr
 status: New

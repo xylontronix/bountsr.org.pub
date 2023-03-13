@@ -4,7 +4,8 @@ title:  "Nostr-based GoFundMe replacement with Bitcoin"
 date:   2023-01-29 16:48:00 -0500
 categories: code
 author: nvk
-value: 0.01
+pledges:
+  - [0.01, nvk]   
 currency: BTC
 contact: https://nvk.org/nostr
 status: New

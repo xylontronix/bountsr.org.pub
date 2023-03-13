@@ -4,7 +4,8 @@ title:  "Nostr Relay for Start9 Marketplace"
 date:   2023-01-30 09:53:00 -0600
 categories: code
 author: arkinox
-value: 0.00500000
+pledges:
+  - [0.005, arkinox]
 currency: BTC
 contact: https://brb.io/u/e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a
 status: Claimed

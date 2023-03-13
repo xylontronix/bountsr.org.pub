@@ -4,7 +4,8 @@ title:  Implement the Gossip Model in one of the established clients
 date:   2023-02-02 21:19:00 -0300
 categories: code
 author: FNF
-value: 0.05
+pledges:
+  - [0.05, FNF]
 currency: BTC
 contact: https://t.me/fiatjaf
 status: New

@@ -4,7 +4,8 @@ title:  Telegram Android port
 date:   2023-02-02 21:19:00 -0300
 categories: code
 author: FNF
-value: 0.1
+pledges:
+  - [0.1, FNF]
 currency: BTC
 contact: https://t.me/fiatjaf
 status: New

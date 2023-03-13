@@ -4,7 +4,10 @@ title:  "Nostr-based Lightning Polls"
 date:   2023-01-30 00:05:00 +1100
 categories: widget
 author: StackSatsIO
-value: 0.16
+pledges:
+  - [0.1, StackSatsIO]
+  - [0.01, nvk]
+  - [0.05, StackSatsIO]
 currency: BTC
 contact: https://brb.io/u/7ca66d4166b16f54a16868191ba1c6386a976624f4634f3896d9b6740a388ca3 
 status: New
