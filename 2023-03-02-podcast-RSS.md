@@ -4,7 +4,8 @@ title:  "A podcast RSS mirror/replacement."
 date:   2023-03-02 8:48:00 -0500
 categories: code
 author: nvk
-value: 0.01
+pledges:
+  - [0.01, nvk]
 currency: BTC
 contact: https://nvk.org/nostr
 status: New

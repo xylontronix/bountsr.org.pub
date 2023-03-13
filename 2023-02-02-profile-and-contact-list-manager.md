@@ -4,7 +4,8 @@ title: Profile and Contact List Manager Web app
 date:   2023-02-02 21:19:00 -0300
 categories: code
 author: FNF
-value: 0.01
+pledges:
+  - [0.01, FNF]
 currency: BTC
 contact: https://t.me/fiatjaf
 status: withdrawn

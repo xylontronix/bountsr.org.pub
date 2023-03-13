@@ -4,7 +4,8 @@ title:  "Nostr-based Mailing List replacement"
 date:   2023-01-21 05:19:00 -0500
 categories: code
 author: coinkite
-value: 0.1
+pledges:
+  - [0.1, coinkite]
 currency: BTC
 contact: https://nvk.org/nostr
 status: New

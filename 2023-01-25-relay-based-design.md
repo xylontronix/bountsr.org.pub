@@ -4,7 +4,9 @@ title:  "Relay-based Social Nostr app design"
 date:   2023-01-25 21:19:00 -0300
 categories: design
 author: FNF
-value: 0.06
+pledges:
+  - [0.05, FNF]
+  - [0.01, nvk]
 currency: BTC
 contact: https://t.me/nostr_protocol 
 status: Claimed

@@ -7,9 +7,24 @@ See example https://github.com/coinkite/bountsr.org.pub/
 
 **For completed bounties please change the status to "claimed"**
 
-If you see a bounty you'd like to also pled Sats too, just add to the total and add text stating it.
+If you see a bounty you'd like to also pledge Sats to, add a new line under `pledges` with your amount and name, e.g.:
 
-Ie 
+Before:
+
+```yaml
+pledges:
+  - [0.01, Joe]
+```
+
+After:
+  
+```yaml
+pledges:
+  - [0.01, Joe]
+  - [0.015, Jane]
+```
+
+Also add text stating your contribution and contact info, e.g.:
 
 - "Joe pledges 100k Sats" link to note/tweet
 - "Jane pledges 150k Sats" link to note/tweet

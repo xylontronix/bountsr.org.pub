@@ -4,7 +4,8 @@ title: Filesharing App
 date: 2023-02-04 21:19:00 -0300
 categories: code
 author: FNF
-value: 0.05
+pledges:
+  - [0.05, FNF]
 currency: BTC
 contact: https://t.me/fiatjaf
 status: New

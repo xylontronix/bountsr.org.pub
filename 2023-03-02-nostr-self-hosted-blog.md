@@ -4,7 +4,8 @@ title:  "A Ghost-blog like self-hosted replacement on Nostr."
 date:   2023-03-02 8:45:00 -0500
 categories: code
 author: nvk
-value: 0.01
+pledges:
+  - [0.01, nvk]
 currency: BTC
 contact: https://nvk.org/nostr
 status: New
