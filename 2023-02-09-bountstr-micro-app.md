@@ -14,3 +14,5 @@
 Make it super easy to create a new bounty and pay for it.
 
 Use nostr web browser login for authentication, create an event for bounty / adding pledges, DM user when the task is completed, and make payment just a zap.
+
+Also probably it's wise to talk to the client authors to make sure that it goes through the DM spam filter
