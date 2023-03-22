@@ -11,4 +11,4 @@ contact: https://iris.to/aritter
 status: New
 ---
 
-"Iris DM notifications MVP" 
+Be able to turn on notifications for DMs in Iris both on web and in the mobile app.
