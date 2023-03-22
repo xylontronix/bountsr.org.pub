@@ -11,36 +11,23 @@ contact: https://brb.io/u/npub1gm7tuvr9atc6u7q3gevjfeyfyvmrlul4y67k7u7hcxztz67ce
 status: New
 ---
 
-Create or modify an existing relay such that limits can be applied by proximity in a
-graph of followers.
-
-I want to run a relay financed by a tiny percentage of its users and strongly believe
+I want to **run a relay** financed by a tiny percentage of its users and strongly believe
 in the following being a way to align incentives for all clients and relay operators:
 
-For this bounty, the minimum requirement is:
+For this bounty, the minimum requirement for the resulting relay is:
 
-- [ ] Implement authentication. The relay does only process REQests and EVENTs from clients linked to pubkeys once this module is activated
-- [ ] Measure resource use per pubkey: milliseconds spent on queries, query count, events sent, event kBs sent, etc.
-- [ ] Define group of primary users (how this works is independent of this issue but in my case it might be people I follow or people that pay $x/month).
-- [ ] Secondary users are follows of primary users etc.
-- [ ] Define limits depending on follows distance to primary users, using five tiers: 0 = primary users, 1 = follows, 2 = follows of follows, 3 = follows of follows of follows, inf = all the other pubkeys
+* relay is as efficient or better than [strfry](https://github.com/hoytech/strfry) at supported nips, synchronization between instances and handling concurrent connections
+* nip42 support
+* all read and write operations are metered per connected pubkey: milliseconds spent on queries, query count, events sent, event kBs sent, etc. (If Alice pushes Bob's events, it gets tallied to her pubkey - the one authenticated via nip42)
+* allow managing group of primary (TIER 0 or T0) users via API
+* secondary users are those followed by T0 users etc.
+* define limits depending on follows distance to primary users, using five tiers: 0 = primary users, 1 = follows, 2 = follows of follows, 3 = follows of follows of follows, inf = all the other pubkeys
+* allow configuring hourly, daily and monthly limits per tier
 
-With this in place, the relay can set rules depending on tiers:
+**This bounty was created with the goal of actually running a relay with this feature and will not be awarded for a proof of concept that is not a fully functional and performant relay. Strfry is "good enough". If you want to implement the proposed feature in a different relay, please reach out to discuss first.**
 
-```yaml
-limits:
-  0:
-  1:
-  2:
-    eventsPerHour: 8
-  3:
-    eventsPerHour: 8
-    maxEventSize: 1000
-  inf:
-    eventsPerHour: 8
-    eventsPerDay: 12
-    maxEventSize: 300
-    embedUrls: false
-```
+This bounty was offered in other places before:
 
-This bounty was offered in other places before, including in https://github.com/hoytech/strfry/issues/17
+* https://github.com/hoytech/strfry/issues/17
+* https://bountsr.org/relay-with-wot-based-limits/
+* https://nostrbounties.com/b/naddr1qpqxgdpcxu6rqcej8pjnxdekxpjkzefnvfjk2wtrvcervdm9xc6ryenpvycn2d3sv4snxvpnvy6rwc34xsmxxwr9v5cnyetyxf3njwtyvvpzq3huhccxt6h34eupz3jeynjgjgek8lel2f4adaea0svyk94a3njdqvzqqqr4guugzfhl
