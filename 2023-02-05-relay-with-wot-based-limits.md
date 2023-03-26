@@ -26,8 +26,8 @@ For this bounty, the minimum requirement for the resulting relay is:
 
 **This bounty was created with the goal of actually running a relay with this feature and will not be awarded for a proof of concept that is not a fully functional and performant relay. Strfry is "good enough". If you want to implement the proposed feature in a different relay, please reach out to discuss first.**
 
-This bounty was offered in other places before:
+This bounty was offered in these places:
 
-* https://github.com/hoytech/strfry/issues/17
-* https://bountsr.org/relay-with-wot-based-limits/
-* https://nostrbounties.com/b/naddr1qpqxgdpcxu6rqcej8pjnxdekxpjkzefnvfjk2wtrvcervdm9xc6ryenpvycn2d3sv4snxvpnvy6rwc34xsmxxwr9v5cnyetyxf3njwtyvvpzq3huhccxt6h34eupz3jeynjgjgek8lel2f4adaea0svyk94a3njdqvzqqqr4guugzfhl
+* [strfry](https://github.com/hoytech/strfry/issues/17)
+* [bountsr.org](https://bountsr.org/relay-with-wot-based-limits/)
+* [nostrbounties.com](https://nostrbounties.com/b/naddr1qq9rzd3h8y6nqwf5xyuqygzxljlrqe027xh8sy2xtyjwfzfrxcll8afxh4hh847psjckhkxwf5psgqqqw4rsty50fx)
