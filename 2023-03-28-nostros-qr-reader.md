@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Include open source video player
+title:  Open source/Non-propietary QR reader for Nostros
 date:   2023-03-28 23:30:00 +0100
 categories: code
 author: KoalaSat
