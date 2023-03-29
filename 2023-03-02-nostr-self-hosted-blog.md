@@ -8,7 +8,7 @@ pledges:
   - [0.01, nvk]
 currency: BTC
 contact: https://nvk.org/nostr
-status: New
+status: claimed
 ---
 
 Build a Ghost-blog like self-hosted replacement on Nostr.
