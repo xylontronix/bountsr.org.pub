@@ -3,7 +3,7 @@ layout: post
 title:  "Iris CPU usage blocks rendering"
 date:   2023-03-31 10:26:00 -0500
 categories: code
-author: @mmalmi
+author: "@mmalmi"
 pledges:
   - [0.001, mmalmi]
 currency: BTC
