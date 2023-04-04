@@ -37,3 +37,9 @@ The bounty can be increased depending on the implementation.
 The bounty doesn't have to be claimed by the app maintainer, it can be claimed by whoever implemented the feature.
 
 Multiple payouts of this same bounty can be made if it is implemented in multiple apps.
+
+---
+
+Question: what if a note appears on many relays, and there is limited real estate to display the "seen on relays" list?
+Answer per @fiatjaf: 
+> "Yes, just the first 3 or 4 and `y` more relays is great."
