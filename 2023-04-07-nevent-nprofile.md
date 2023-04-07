@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Follow event hints
-date:   2023-03-28 21:19:00 -0300
+title:  Output nevent and nprofile codes with relay hints, add relay hints to tags
+date:   2023-04-07 21:19:00 -0300
 categories: code
 author: FNF
 pledges:
@@ -11,7 +11,7 @@ contact: https://t.me/fiatjaf
 status: New
 ---
 
-If an event references another using a tag with a relay hint, make sure you try to fetch the event from the hinted relay -- in addition to other relays you may decide to use. Also follow the relay and author hints in `nevent` URLs, the relay hints in `nprofile` URLs and the relay hints in NIP-05 metadata.
+The idea is that the client should add a relay hint on the tag when mentioning other notes, as the `e` tag, and when mentioning people using the `p` tag. If using NIP-27, they should embed `nostr:nevent1...` and `nostr:nprofile1...` URLs that contain at least one relay hint to each. And finally, when showing copiable/shareable identifiers to notes and to profiles, the client should display `nprofile` and `nevent` codes.
 
 I may have forgotten some, but this bounty applies to all major open-source clients in operation:
 
@@ -40,7 +40,3 @@ The bounty doesn't have to be claimed by the app maintainer, it can be claimed b
 Multiple payouts of this same bounty can be made if it is implemented in multiple apps.
 
 ---
-
-**Claimed**, so far, by
-
-- Nozzle

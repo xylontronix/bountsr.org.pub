@@ -29,6 +29,7 @@ I may have forgotten some, but this bounty applies to all major open-source clie
  - Plasma
  - Satellite (when open-source)
  - Camelus
+ - Primal
 
 For other clients please ask first, or suggest adding here with a PR.
 
@@ -39,3 +40,9 @@ The bounty can be increased depending on the implementation.
 The bounty doesn't have to be claimed by the app maintainer, it can be claimed by whoever implemented the feature.
 
 Multiple payouts of this same bounty can be made if it is implemented in multiple apps.
+
+---
+
+**Claimed**, so far, by
+
+- Nozzle
