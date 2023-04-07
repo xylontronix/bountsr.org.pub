@@ -26,6 +26,7 @@ The idea is to implement this model (or a variant of it) for keeping track of re
  - Plasma
  - Satellite
  - Camelus
+ - Primal
 
 For other clients please ask first, or suggest adding here with a PR.
 

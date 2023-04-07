@@ -27,6 +27,7 @@ I may have forgotten some, but this bounty applies to all major open-source clie
  - Plasma
  - Satellite (when open-source)
  - Camelus
+ - Primal
 
 For other clients please ask first, or suggest adding here with a PR.
 
@@ -41,5 +42,13 @@ Multiple payouts of this same bounty can be made if it is implemented in multipl
 ---
 
 Question: what if a note appears on many relays, and there is limited real estate to display the "seen on relays" list?
-Answer per @fiatjaf: 
+Answer per @fiatjaf:
 > "Yes, just the first 3 or 4 and `y` more relays is great."
+
+---
+
+**Claimed**, so far, by
+
+- Coracle
+- Nozzle
+- Nostros
