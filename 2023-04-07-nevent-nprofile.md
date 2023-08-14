@@ -28,6 +28,7 @@ I may have forgotten some, but this bounty applies to all major open-source clie
  - Satellite (when open-source)
  - Camelus
  - Primal
+ - Nostrmo
 
 For other clients please ask first, or suggest adding here with a PR.
 
