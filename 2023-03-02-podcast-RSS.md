@@ -1,4 +1,4 @@
-Custom RSS feed using fiatjaf's noscl. There are three files. 'create.sh' 'news.sh' and 'fetch_rss.py'. Put 'create.sh' in the '/home/' folder and the other two in the users '/go/bin' directoy. Navigate to the user's 'go/bin' directory and run 'su news' (with news being the username), and the run nohup './news.sh &> /dev/null &' to run after being logged off. This could probably all be performed by one python script, but I don't know how to do that yet. You can replace the links in the python script with an .xml or rss feed of your choice. Put a different feed on each line.
+Custom RSS feed using fiatjaf's noscl. There are three files. 'create.sh' 'news.sh' and 'fetch_rss.py'. Put 'create.sh' in the '/home/' folder and the other two in the users '/go/bin' directoy. Navigate to the user's 'go/bin' directory and run 'su news' (with news being the username), and the run 'nohup ./news.sh &> /dev/null &' to run after being logged off. This could probably all be performed by one python script, but I don't know how to do that yet. You can replace the links in the python script with an .xml or rss feed of your choice. Put a different feed on each line.
 
 ---
 #create.sh
